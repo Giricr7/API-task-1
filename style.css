@@ -15,11 +15,11 @@
   width: 100%;
   height: 100vh;
   border-radius: 20px;
-  background: linear-gradient(to bottom, #66ff66 0%, #99ffcc 100%);
 }
 
 .body {
   padding: 5%;
+  background: linear-gradient(to bottom, #99ffcc 0%, #99ff66 100%);
 }
 
 .button {
@@ -29,7 +29,6 @@
 
 .buttons_div {
   height: 70vh;
-  background: linear-gradient(to bottom, #99ffcc 0%, #99ff66 100%);
   align-items: center;
   padding: 30%;
   border-radius: 20px;
@@ -47,6 +46,7 @@
   height: fit-content;
   text-align: center;
   color: #9933ff;
+  background: linear-gradient(to bottom, #99ffcc 0%, #99ff66 100%);
 }
 
 @media screen and (max-width: 720px) {
