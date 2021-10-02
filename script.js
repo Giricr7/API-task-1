@@ -26,11 +26,8 @@
     start();
 
 
+    //reloading a new image
     function setnewimage(){
         
         location.reload()
-        }
-    
-    
-    function img_download() {
         }
